@@ -1,0 +1,40 @@
+C:\Users\elmer\source\repos\elevator\elevator\bin\Debug\elevator.exe.config
+C:\Users\elmer\source\repos\elevator\elevator\bin\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator\elevator\bin\Debug\elevator.pdb
+C:\Users\elmer\source\repos\elevator\elevator\obj\Debug\elevator.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\elevator\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\elmer\source\repos\elevator\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\elmer\source\repos\elevator\elevator\obj\Debug\elevator.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\elevator\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\elevator\elevator\obj\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator\elevator\obj\Debug\elevator.pdb
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\bin\Debug\elevator.exe.config
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\bin\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\bin\Debug\elevator.pdb
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\obj\Debug\elevator.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\obj\Debug\elevator.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\obj\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator _Ver1.01\elevator\obj\Debug\elevator.pdb
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\bin\Debug\elevator.exe.config
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\bin\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\bin\Debug\elevator.pdb
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\obj\Debug\elevator.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\obj\Debug\elevator.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\obj\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator _Ver1.02\elevator\obj\Debug\elevator.pdb
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\obj\Debug\elevator.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\obj\Debug\elevator.Form1.resources
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\obj\Debug\elevator.Properties.Resources.resources
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\obj\Debug\elevator.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\obj\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\obj\Debug\elevator.pdb
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\bin\Debug\elevator.exe.config
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\bin\Debug\elevator.exe
+C:\Users\elmer\source\repos\elevator _Ver1.03\elevator\bin\Debug\elevator.pdb
